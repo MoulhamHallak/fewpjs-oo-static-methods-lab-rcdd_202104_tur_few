@@ -24,5 +24,9 @@ class Formatter {
       }
     }
     return words.join(" ");
+<<<<<<< HEAD
    }
 }
+=======
+   }
+>>>>>>> 12953a456f3eb8447f249a36605ccb6a5b453fc4
